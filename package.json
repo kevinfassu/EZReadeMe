@@ -1,12 +1,16 @@
 {
-  "name": "static-site",
+  "name": "ezreadme",
   "version": "1.0.0",
-  "description": "",
+  "description": "creating README file on command line",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinfassu/EZReadeMe"
+  },
+  "author": "Kevin Fassu",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
